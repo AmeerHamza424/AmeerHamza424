@@ -2,7 +2,7 @@
 
 I'm a Frontend Engineer specializing in building fast, responsive, and high-performance web applications with a strong emphasis on modern UI/UX.
 
-- 🚀 **Check out my portfolio:** [portfolio-1-tau-azure.vercel.app](https://portfolio-1-tau-azure.vercel.app)
+- 🚀 **Check out my portfolio:** [HamzaMamdani](https://hamzamamdani.vercel.app/)
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzamamdani/)
 
 <br/>
