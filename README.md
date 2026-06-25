@@ -6,7 +6,6 @@ I'm a Frontend Engineer specializing in building fast, responsive, and high-perf
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzamamdani/)
 
 <br/>
----
 
 ## 💻 Tech Stack
 
