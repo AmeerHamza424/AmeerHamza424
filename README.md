@@ -31,7 +31,6 @@ I'm a Frontend Engineer specializing in building fast, responsive, and high-perf
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-```md
 ![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -61,4 +60,3 @@ I'm a Frontend Engineer specializing in building fast, responsive, and high-perf
 ![Landing Page](https://img.shields.io/badge/Landing_Page-FF4088?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![User Interface Design](https://img.shields.io/badge/UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-```
