@@ -29,3 +29,36 @@ I'm a Frontend Engineer specializing in building fast, responsive, and high-perf
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+```md
+![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=responsive&logoColor=white)
+
+![Front-End Development](https://img.shields.io/badge/Front--End_Development-61DAFB?style=for-the-badge&logo=frontendmentor&logoColor=black)
+
+![Web Application](https://img.shields.io/badge/Web_Application-4CAF50?style=for-the-badge&logo=webflow&logoColor=white)
+
+![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=for-the-badge&logo=accessibility&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Landing Page](https://img.shields.io/badge/Landing_Page-FF4088?style=for-the-badge&logo=vercel&logoColor=white)
+
+![User Interface Design](https://img.shields.io/badge/UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+```
