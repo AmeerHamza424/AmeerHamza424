@@ -1,15 +1,15 @@
 ### Hi there, I'm Hamza Mamdani! 👋
 
-I'm a Frontend Engineer specializing in building fast, responsive, and high-performance web applications with a strong emphasis on modern UI/UX.
+Frontend Engineer focused on building fast, responsive, and modern web applications with clean UI/UX.
 
-- 🚀 **Check out my portfolio:** [HamzaMamdani](https://hamzamamdani.vercel.app/)
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzamamdani/)
+- 🚀 Portfolio: [HamzaMamdani](https://hamzamamdani.vercel.app/)
+- 💼 LinkedIn: [hamzamamdani](https://www.linkedin.com/in/hamzamamdani/)
 
-<br/>
+---
 
-### 💻 My Tech Stack
+## 💻 Tech Stack
 
-**Frontend & UI** <br/>
+### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,46 +17,20 @@ I'm a Frontend Engineer specializing in building fast, responsive, and high-perf
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-<br/>
-
-**Backend & Database** <br/>
+### Backend & Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br/>
-
-**Tools & Deployment** <br/>
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
-![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+## 🎯 Additional Skills
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=responsive&logoColor=white)
-
-![Front-End Development](https://img.shields.io/badge/Front--End_Development-61DAFB?style=for-the-badge&logo=frontendmentor&logoColor=black)
-
-![Web Application](https://img.shields.io/badge/Web_Application-4CAF50?style=for-the-badge&logo=webflow&logoColor=white)
-
-![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=for-the-badge&logo=accessibility&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Landing Page](https://img.shields.io/badge/Landing_Page-FF4088?style=for-the-badge&logo=vercel&logoColor=white)
-
-![User Interface Design](https://img.shields.io/badge/UI_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF6B6B?style=flat-square)
+![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-005A9C?style=flat-square)
+![Landing Pages](https://img.shields.io/badge/Landing_Pages-ff4088?style=flat-square)
+![UI Design](https://img.shields.io/badge/UI_Design-f24e1e?style=flat-square)
