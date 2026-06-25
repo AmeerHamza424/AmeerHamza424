@@ -1,10 +1,11 @@
 ### Hi there, I'm Hamza Mamdani! 👋
 
-Frontend Engineer focused on building fast, responsive, and modern web applications with clean UI/UX.
+I'm a Frontend Engineer specializing in building fast, responsive, and high-performance web applications with a strong emphasis on modern UI/UX.
 
-- 🚀 Portfolio: [HamzaMamdani](https://hamzamamdani.vercel.app/)
-- 💼 LinkedIn: [hamzamamdani](https://www.linkedin.com/in/hamzamamdani/)
+- 🚀 **Check out my portfolio:** [HamzaMamdani](https://hamzamamdani.vercel.app/)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzamamdani/)
 
+<br/>
 ---
 
 ## 💻 Tech Stack
